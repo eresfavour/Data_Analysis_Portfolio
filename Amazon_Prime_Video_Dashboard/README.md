@@ -14,3 +14,5 @@ content strategy and marketing prioritization.
 
 ### File
 -Screenshot of key visualization.
+
+![Amazon Prime Video Dashboard Screenshot](image.png)
