@@ -14,3 +14,5 @@ insights and improve service quality.
 
 ### Files 
 Screenshot of key visualizations.
+
+![Call Center Dashboard Screenshot](image.png)
